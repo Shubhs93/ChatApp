@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# Getting Started with Chat App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created for chat app
 
-## Available Scripts
+## Tech used
+This chatengine is built in Reactjs using react-chat-engine component.
 
-In the project directory, you can run:
+## Pre-requisites
+Github Account
+Nodejs installed on your machine
+Any editor like Notepad++, VS Code.
+Create account using https://chatengine.io/.
+Create users and Chat title using above link
 
 ### `npm start`
 
